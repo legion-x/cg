@@ -1,1 +1,1 @@
-# pract this is personal data
+# This is repository of computer graphics programms
